@@ -1,2 +1,5 @@
-# GameCo-07-2023
-A video game company interested in exploring historical sales trends in development of new games.
+# GameCo
+
+Perform a descriptive analysis to gain insights into the current video game landscape for a marketing and sales’ team 2017 planning.
+
+
